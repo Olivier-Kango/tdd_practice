@@ -50,5 +50,3 @@ class DecodeMorse
     output
   end
 end
-
-p DecodeMorse.new.decode('.-. ..- -... .. . ...')
